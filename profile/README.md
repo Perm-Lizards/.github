@@ -1,5 +1,7 @@
 # Perm-Lizards
 
+![Perm-Lizards](https://github.com/Perm-Lizards/.github/blob/main/logo.jpg?raw=true)
+
 > Топовая Пермская инициативная перспективное сообщество \
 > Наши IT-решения пользуются спросом на рынке
 
