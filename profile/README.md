@@ -2,15 +2,38 @@
 
 ![Perm-Lizards](https://github.com/Perm-Lizards/.github/blob/main/logo.jpg?raw=true)
 
-> Топовая Пермская инициативная перспективное сообщество \
-> Наши IT-решения пользуются спросом на рынке
+### Наш стек
+#### ЯПы и фреймворки/либы
+- TypeScript (ECMAScript 2022)
+  - React 
+  - NextJS
+  - RTK
+  - MUI
+  - Vue
+  - NestJS
+  - TypeORM
+  - Vite
+- C#
+  - ASP.Net Core
+  - MediatR (CQRS)
+  - EntiryFramework
+- Go
+  - gin
+  - gorm
 
-# Наш стек
-- JavaScript, TypeScript
+#### Инфраструктура
+- Docker, docker-compose
+- MySQL, PostgreSQL
+- Linux (Ubuntu, Arch)
 
-# Наша философия
-> Не важно, с какой скоростью ты движешься к своей цели, главное - не останавливаться
+#### Разработка
+- VS Code
+- Git
+- Postman
+- DBEaver
+- Figma
+- Swagger
 
-# Наш путь
-> Мы хотим написать сверх ультра 4к прибыльного телеграмм бота
-> а дальше можно и go выучить...
+### Наши проекты
+#### Devmate
+> Площадка для поиска разработчиков в проект/стартап и наоборот
