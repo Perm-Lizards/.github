@@ -17,9 +17,19 @@
   - ASP.Net Core
   - MediatR (CQRS)
   - EntiryFramework
+- Java
+  - Spring Boot
+  - Spring Data JPA
 - Go
   - gin
   - gorm
+  - testify
+  - sqlmock
+ 
+#### Методологии
+- Clean Architecture
+- SOLID
+- TDD
 
 #### Инфраструктура
 - Docker, docker-compose
